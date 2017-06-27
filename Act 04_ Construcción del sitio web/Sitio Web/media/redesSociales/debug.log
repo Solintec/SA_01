@@ -1,0 +1,66 @@
+[0408/012143:ERROR:gl_surface_egl.cc(133)] eglInitialize failed with error UNKNOWN
+[0408/012143:ERROR:gl_surface_win.cc(97)] GLSurfaceEGL::InitializeOneOff failed.
+[0408/012154:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0408/012154:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0408/012154:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0408/012155:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0408/012155:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0408/012155:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0408/012156:INFO:CONSOLE(0)] "event.returnValue is deprecated. Please use the standard event.preventDefault() instead.", source:  (0)
+[0408/012156:INFO:CONSOLE(0)] "event.returnValue is deprecated. Please use the standard event.preventDefault() instead.", source:  (0)
+[0408/012204:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0408/012204:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0408/012516:ERROR:gl_surface_egl.cc(133)] eglInitialize failed with error UNKNOWN
+[0408/012516:ERROR:gl_surface_win.cc(97)] GLSurfaceEGL::InitializeOneOff failed.
+[0408/012527:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0408/012527:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0408/012527:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0408/012528:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0408/012528:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0408/012528:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0408/012529:INFO:CONSOLE(0)] "event.returnValue is deprecated. Please use the standard event.preventDefault() instead.", source:  (0)
+[0408/012529:INFO:CONSOLE(0)] "event.returnValue is deprecated. Please use the standard event.preventDefault() instead.", source:  (0)
+[0408/012537:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0408/012537:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0408/012609:ERROR:ipc_channel_win.cc(405)] pipe error: 232
+[0408/031900:ERROR:gl_surface_egl.cc(133)] eglInitialize failed with error UNKNOWN
+[0408/031900:ERROR:gl_surface_win.cc(97)] GLSurfaceEGL::InitializeOneOff failed.
+[0408/031911:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0408/031911:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0408/031912:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0408/031912:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0408/031912:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0408/031913:INFO:CONSOLE(0)] "event.returnValue is deprecated. Please use the standard event.preventDefault() instead.", source:  (0)
+[0408/031913:INFO:CONSOLE(0)] "event.returnValue is deprecated. Please use the standard event.preventDefault() instead.", source:  (0)
+[0408/031921:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0408/031921:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0617/000449:ERROR:gl_surface_egl.cc(133)] eglInitialize failed with error UNKNOWN
+[0617/000449:ERROR:gl_surface_win.cc(97)] GLSurfaceEGL::InitializeOneOff failed.
+[0617/000501:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0617/000501:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0617/000502:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0617/000502:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0617/000503:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0617/000503:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0617/000503:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0617/000506:INFO:CONSOLE(0)] "event.returnValue is deprecated. Please use the standard event.preventDefault() instead.", source:  (0)
+[0617/000506:INFO:CONSOLE(0)] "event.returnValue is deprecated. Please use the standard event.preventDefault() instead.", source:  (0)
+[0617/000512:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0617/000512:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0617/000512:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0617/000616:ERROR:ipc_channel_win.cc(132)] pipe error: 109
+[0617/000720:ERROR:gl_surface_egl.cc(133)] eglInitialize failed with error UNKNOWN
+[0617/000720:ERROR:gl_surface_win.cc(97)] GLSurfaceEGL::InitializeOneOff failed.
+[0617/000733:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0617/000733:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0617/000734:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0617/000734:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0617/000735:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0617/000735:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0617/000735:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0617/000736:INFO:CONSOLE(1)] "Uncaught TypeError: Cannot call method 'appendChild' of undefined", source: v8/appCss (1)
+[0617/000736:INFO:CONSOLE(0)] "event.returnValue is deprecated. Please use the standard event.preventDefault() instead.", source:  (0)
+[0617/000736:INFO:CONSOLE(0)] "event.returnValue is deprecated. Please use the standard event.preventDefault() instead.", source:  (0)
+[0617/000744:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0617/000744:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0617/000744:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2

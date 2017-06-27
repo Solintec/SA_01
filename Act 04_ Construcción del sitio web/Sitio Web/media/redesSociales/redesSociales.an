@@ -1,0 +1,126 @@
+
+{
+
+	"HTMLFileName":"Untitled-2.html",
+	"expanded:images/grey-background1.jpg":"nil",
+	"pref__general__AutoKeyframeProperties":"true",
+	"ModelData":"{\
+\"stage\": {\
+   \"timelines\": {\
+      \"Default Timeline\": {\
+      }\
+   }},\
+\"Precargador\": {\
+   \"timelines\": {\
+\
+   }},\
+\"Nivel inferior\": {\
+   \"timelines\": {\
+\
+   }}\
+}",
+	"expanded:images/new-facebook-logo-2015-400x4002.png":"nil",
+	"expanded:images/you1.png":"nil",
+	"CompZoomFactor":"100",
+	"StageZoomFactor":"81",
+	"pref__general__FilterNonAnimatedElements":"false",
+	"expanded:images/twi1.png":"nil",
+	"expanded:images/fac1.png":"nil",
+	"viewStartMs":"33562.6484375",
+	"pref__general__AutoKeyframePropertiesArmed":"true",
+	"expanded:images/new-facebook-logo-2015-400x400.png":"nil",
+	"expanded:images/youtube-logo.png":"nil",
+	"TransitionIdCounter":"475",
+	"expanded:images/Facebook-03.png":"nil",
+	"viewStartY":"0",
+	"pixelsPerMs":"0.082457387527854",
+	"stage-Default Timeline_playhead_ms":"36941",
+	"expanded:images/banner-com-o-logotipo-do-twitter.png":"nil",
+	"stage-Default Timeline_mark_ms":"-1",
+	"nextElementColorIndex":"4",
+	"expanded:images/text.png":"nil",
+	"usedBOM":"false",
+	"pref__general__GenerateSmoothTransitions":"true",
+	"symbol_stage":{
+		"element_${Text}":{
+			"timelineColor2":"0x107faa",
+			"timelineColor3":"0x295a6d",
+			"animationEnabled":"false",
+			"timelineColor":"0x008dc8"},
+		"dummyStageParentWidth":"1025px",
+		"element_${youtube-logo2}":{
+			"timelineColor2":"0xba5b89",
+			"timelineColor3":"0x734a5f",
+			"animationEnabled":"true",
+			"timelineColor":"0xdb619d"},
+		"dummyStageParentHeight":"300px",
+		"element_${new-facebook-logo-2015-400x4002}":{
+			"timelineColor2":"0xd8b467",
+			"timelineColor3":"0x81714f",
+			"animationEnabled":"true",
+			"timelineColor":"0xffd46d"},
+		"element_${banner-com-o-logotipo-do-twitter}":{
+			"timelineColor2":"0x326a96",
+			"timelineColor3":"0x385063",
+			"animationEnabled":"false",
+			"timelineColor":"0x2f73ad"},
+		"element_${grey-background12}":{
+			"timelineColor2":"0x1095d2",
+			"timelineColor3":"0x29647e",
+			"timelineColor":"0x00a9fa"},
+		"element_${Facebook-032}":{
+			"timelineColor2":"0xd35d6e",
+			"timelineColor3":"0x7e4b52",
+			"animationEnabled":"false",
+			"timelineColor":"0xfb657a"},
+		"element_${Facebook-03}":{
+			"timelineColor2":"0x168c84",
+			"timelineColor3":"0x2a605c",
+			"animationEnabled":"false",
+			"timelineColor":"0x00a096"},
+		"element_${twi1}":{
+			"timelineColor2":"0x81aa62",
+			"timelineColor3":"0x5b6c4d",
+			"animationEnabled":"false",
+			"timelineColor":"0x91c767"},
+		"element_${new-facebook-logo-2015-400x400}":{
+			"timelineColor2":"0x1aa38f",
+			"timelineColor3":"0x2a6a61",
+			"animationEnabled":"false",
+			"timelineColor":"0x00bda4"},
+		"element_${fac1}":{
+			"timelineColor2":"0x4fa275",
+			"timelineColor3":"0x456a55",
+			"animationEnabled":"false",
+			"timelineColor":"0x50bd82"},
+		"element_${youtube-logo}":{
+			"timelineColor2":"0x4fa275",
+			"timelineColor3":"0x456a55",
+			"animationEnabled":"false",
+			"timelineColor":"0x50bd82"},
+		"defaultStageParentHeight":"300px",
+		"element_${grey-background1}":{
+			"timelineColor2":"0x81aa62",
+			"timelineColor3":"0x5b6c4d",
+			"animationEnabled":"false",
+			"timelineColor":"0x91c767"},
+		"element_${Stage}":{
+			"timelineColor2":"0xcbbd71",
+			"timelineColor3":"0x7b7652",
+			"timelineColor":"0xeedf79"},
+		"defaultStageParentWidth":"1025px",
+		"element_${text}":{
+			"timelineColor2":"0x5a558a",
+			"timelineColor3":"0x4a485e",
+			"animationEnabled":"true",
+			"timelineColor":"0x63599f"},
+		"element_${banner-com-o-logotipo-do-twitter2}":{
+			"timelineColor2":"0xb099ce",
+			"timelineColor3":"0x70657c",
+			"animationEnabled":"true",
+			"timelineColor":"0xceaef4"},
+		"element_${you1}":{
+			"timelineColor2":"0xcbbd71",
+			"timelineColor3":"0x7b7652",
+			"animationEnabled":"false",
+			"timelineColor":"0xeedf79"}}}
